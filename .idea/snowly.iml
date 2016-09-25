@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="CIDR_MODULE" version="4">
   <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source">
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketEnginePacketType.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketEngineSpec.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketEngine.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketLogger.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketAnyEvent.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketEngineWebsocket.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketTypes.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketIOClientSpec.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketIOClientConfiguration.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/WebSocket.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketClientManager.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketEnginePollable.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SSLSecurity.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketEngineClient.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketPacket.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketIOClientOption.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketAckEmitter.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketEventHandler.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketParsable.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketAckManager.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketExtensions.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketIOClient.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketIOClientStatus.swift" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/socket.io-client-swift-master/Source/SocketStringReader.swift" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/snowlyTests/snowlyTests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/snowlyTests/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/snowlyUITests/snowlyUITests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/snowlyUITests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snowly/AppDelegate.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snowly/ViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snowly/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snowly/Assets.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snowly/SocketIOManager.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/snowly/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/snowly/Base.lproj/Main.storyboard" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snowly/Assets.xcassets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snowly/ViewController.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snowly/AppDelegate.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snowly/Info.plist" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">

@@ -277,6 +277,12 @@
 				TargetAttributes = {
 					B8A1C0CB1D769A94001CB5CD = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 38U36W7QB3;
+						SystemCapabilities = {
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
 					};
 					B8A1C0DF1D769A95001CB5CD = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -593,6 +599,7 @@
 				B8A1C0F61D769A95001CB5CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B8A1C0F71D769A95001CB5CD /* Build configuration list for PBXNativeTarget "snowlyTests" */ = {
 			isa = XCConfigurationList;
@@ -601,6 +608,7 @@
 				B8A1C0F91D769A95001CB5CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B8A1C0FA1D769A95001CB5CD /* Build configuration list for PBXNativeTarget "snowlyUITests" */ = {
 			isa = XCConfigurationList;
@@ -609,6 +617,7 @@
 				B8A1C0FC1D769A95001CB5CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
